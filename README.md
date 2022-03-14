@@ -51,7 +51,7 @@
 
 
 
-## hixogram:-
+## Histogram:-
 
 ### before:
 
