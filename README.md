@@ -1,16 +1,21 @@
 # AI Image processing fix contrast
 ## Image Contrast Enhancement using Histogram Equalization
 
+
+
+
+
 ### OUTPUT of the algorisms:
 
 ## example A:
 
-before->
+#### before ->>
 
 ![image](https://user-images.githubusercontent.com/58062859/158158731-a8cf377a-613d-4655-bcaa-1d28039fc6f2.png)
 
 
-after ->
+#### after ->>
+
 1:
 
 ![image](https://user-images.githubusercontent.com/58062859/158158679-2719d791-e9b5-4e7a-bab2-d17f56727668.png)
@@ -24,12 +29,12 @@ after ->
 
 ## example B:
 
-before -> 
+#### before ->> 
 
 ![image](https://user-images.githubusercontent.com/58062859/158159256-4bd9de61-9119-4645-ad6c-afab5a6ce0b2.png)
 
 
-after->
+#### after->>
 
 1:
 
@@ -43,4 +48,18 @@ after->
 ![image](https://user-images.githubusercontent.com/58062859/158159819-d9d4da23-6a87-4bb9-b3cf-5779a109cd40.png)
 
 
+
+
+
+## hixogram:-
+
+### before:
+
+![image](https://user-images.githubusercontent.com/58062859/158160979-08760ae0-6e5e-4d5b-9ea1-c47f699bcf9d.png)
+
+
+### after :- 
+
+
+![image](https://user-images.githubusercontent.com/58062859/158161125-70c58d74-5799-4c75-974b-7201e13d3939.png)
 
