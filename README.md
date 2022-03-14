@@ -2,7 +2,8 @@
 ## Image Contrast Enhancement using Histogram Equalization
 
 ### OUTPUT of the algorisms:
-example A:
+
+## example A:
 
 before->
 
@@ -15,14 +16,13 @@ after ->
 ![image](https://user-images.githubusercontent.com/58062859/158158679-2719d791-e9b5-4e7a-bab2-d17f56727668.png)
 
 
-
 2:
 
 
 ![image](https://user-images.githubusercontent.com/58062859/158159091-c2d3cd4e-c484-4755-9a92-89abdfb3974c.png)
 
 
-example B:
+## example B:
 
 before -> 
 
